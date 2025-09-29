@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thdung002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently working with Golang
 
 <!---
 thdung002/thdung002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
